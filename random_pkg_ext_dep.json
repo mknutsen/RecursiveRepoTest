@@ -1,0 +1,9 @@
+{
+  "scope": "corebuild",
+  "type": "web",
+  "name": "RandomPkg",
+  "source": "https://github.com/mknutsen/ShootingGameAI/archive/v1.0.tar.gz",
+  "version": "1.0.0",
+  "compression_type": "tar",
+  "internal_path": "/ShootingGameAI-1.0/src/mknutsen"
+}
